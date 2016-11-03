@@ -1,4 +1,4 @@
-jPedal - Open Source PDF Viewer
+JPedal - Open Source PDF Viewer
 ===============================
 
 To fullfill the obligations of the LGPL license and since the original source of JPedal ist not available anymore: Here is a fork of the last
